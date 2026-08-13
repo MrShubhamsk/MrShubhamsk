@@ -71,7 +71,7 @@ My goal is to start my career as a Network Engineer or Software Developer, build
 
 📧 *Email:* shubhamsk1337@gmail.com
 
-💼 *LinkedIn:* Shubham Kamble (linkedin.com/in/shubham-kamble-3a8b98384)
+💼 *LinkedIn:* Shubham Kamble https://linkedin.com/in/shubham-kamble-3a8b98384
 
 💻 *GitHub:* MrShubhamsk(https://github.com/MrShubhamsk)
 ---
