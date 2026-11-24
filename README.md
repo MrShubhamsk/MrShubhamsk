@@ -1,34 +1,36 @@
-<!-- PROFILE HEADER -->
+<!-- ================================================== -->
+<!--           SHUBHAM KAMBLE - GITHUB PROFILE           -->
+<!-- ================================================== -->
 
 <h1 align="center">Hi 👋, I'm Shubham Kamble</h1>
 
 <h3 align="center">
-Software Engineering Student | Software Developer | AI & Networking Enthusiast
+Software Engineering Student | Software Developer | Web Developer | AI & Networking Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineering+Student;Java+%26+Web+Developer;Exploring+Artificial+Intelligence;Learning+AWS+%26+Networking;Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Java+%26+Web+Developer;Exploring+Artificial+Intelligence;Learning+AWS+%26+Networking;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Shubhamsk&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Third-Year BSc Software Engineering student passionate about technology, software development, and solving real-world problems through programming.
+I'm a Third-Year BSc Software Engineering student passionate about software development, web technologies, Artificial Intelligence, and computer networking.
 
-- 🎓 Pursuing BSc in Software Engineering
+- 🎓 Pursuing BSc Software Engineering
 - 💻 Interested in Software & Web Development
 - ☕ Exploring Java and Object-Oriented Programming
-- 🤖 Learning Artificial Intelligence and Generative AI
-- ☁️ Exploring AWS and Cloud Computing
-- 🌐 Interested in Computer Networking and CCNA
+- 🤖 Learning Artificial Intelligence & Generative AI
+- ☁️ Exploring AWS & Cloud Computing
+- 🌐 Interested in Computer Networking & Cybersecurity
 - 🗄️ Learning Database Management and SQL
 - 🚀 Building practical software projects
-- 🎯 Open to Entry-Level IT Opportunities
+- 🎯 Looking for entry-level opportunities in IT
 
 ---
 
@@ -41,9 +43,10 @@ I'm a Third-Year BSc Software Engineering student passionate about technology, s
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Technologies
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -78,35 +81,104 @@ I'm a Third-Year BSc Software Engineering student passionate about technology, s
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer & ATS Checker
+### 🤖 1. AI Resume Analyzer & ATS Checker
 
-An AI-powered web application that analyzes resumes and provides ATS scores, skill extraction, strengths, weaknesses, and improvement suggestions.
+An AI-powered web application that analyzes uploaded resumes and provides ATS scores, skill extraction, strengths, weaknesses, and improvement suggestions.
 
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, Gemini API
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL, Gemini API
 
-### 📄 Resume Builder
+### 📄 2. Resume Builder
 
-A web-based application designed to help users create professional resumes using customizable templates.
+A web application that helps users create professional resumes using customizable templates.
 
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
 
-### 🔐 Phishing & Spam Detector
+### 🔐 3. Phishing & Spam Detector
 
 A Python and Machine Learning-based project designed to identify potentially harmful phishing messages and spam content.
 
-**Tech Stack:** Python, Machine Learning
+**Technologies:** Python, Machine Learning
 
-### 🏨 Hotel Booking Management System
+### 🏨 4. Hotel Booking Management System
 
-A Java-based application for managing hotel room bookings, cancellations, and customer information.
+A Java-based application designed to manage hotel room bookings, cancellations, and customer information.
 
-**Tech Stack:** Java, OOP, ArrayList
+**Technologies:** Java, OOP, ArrayList
 
-### 📚 Library Management System
+### 📚 5. Library Management System
 
-A Java-based application for managing library records, books, and student information.
+A Java-based application designed to manage library operations, including book records and student information.
 
-**Tech Stack:** Java, OOP, ArrayList
+**Technologies:** Java, OOP, ArrayList
+
+---
+
+## 🏆 Certifications & Professional Development
+
+### 🔐 Cybersecurity & Networking
+
+**1. Cyber Security Analyst – TATA**
+- Organization: TATA
+- Domain: Cybersecurity
+
+**2. Cyber Security Analyst – Deloitte**
+- Organization: Deloitte
+- Domain: Cybersecurity
+
+**3. Introduction to Cybersecurity**
+- Organization: Cisco Networking Academy
+- Type: Certificate of Course Completion
+- Topics: Cyber Threats, Online Safety, Vulnerabilities and Cybersecurity Awareness
+
+### ☁️ Cloud Computing & Artificial Intelligence
+
+**4. Foundations of Prompt Engineering**
+- Organization: AWS Training & Certification
+- Completed: November 13, 2026
+- Domain: Prompt Engineering and Generative AI
+
+**5. Introduction to Generative AI and LLMs**
+- Platform: Udemy
+- Instructor: Varad V
+- Completed: September 20, 2026
+- Duration: 3.5 Hours
+- Certificate ID: UC-b7deee8c-8405-426f-ac10-92f8372fc3a4
+- [View Certificate](https://ude.my/UC-b7deee8c-8405-426f-ac10-92f8372fc3a4)
+
+### 💼 Professional Development
+
+**6. TCS iON Career Edge – Young Professional**
+- Organization: Tata Consultancy Services
+- Topics:
+  - Communication Skills
+  - Thinking and Presentation Skills
+  - Soft Skills
+  - Resume Writing and Interview Skills
+  - Business Etiquette
+  - Effective Email Writing
+  - Problem-Solving Mindset
+  - IT Foundational Skills
+  - Overview of Artificial Intelligence
+
+---
+
+## 🎖️ Achievements & Participation
+
+**7. QuizOff 2026 – India's Biggest AI Quiz**
+- Organized by CampusCrew
+- Hosted on Unstop
+- Date: July 19, 2026
+- Certificate of Participation
+
+**8. BrainOff 2026 – Main Quiz**
+- Organized by Campus Unite
+- Hosted on Unstop
+- Certificate of Participation
+
+**9. Game On Night – Imagine The Impossible**
+- Organized by Campus Unite
+- College: College of Computer Science and Information Technology, Latur
+- Certificate of Participation
 
 ---
 
@@ -125,44 +197,52 @@ A Java-based application for managing library records, books, and student inform
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubhamsk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamsk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://streak-stats.demolab.com?user=Shubhamsk&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-My goal is to build a successful career in the IT industry as a Software Developer or Network Engineer.
+My goal is to build a successful professional career in the IT industry as a Software Developer or Network Engineer.
 
-I believe in continuous learning, practical experience, and developing innovative solutions that solve real-world problems.
+I believe in continuous learning, practical experience, and developing innovative solutions to solve real-world problems.
 
-I'm always excited to learn new technologies, collaborate with developers, and explore opportunities to grow professionally.
+I am always excited to explore emerging technologies, collaborate with developers, improve my technical skills, and contribute to meaningful IT projects.
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shubhamkamble-3a8b98384" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Shubhamsk">
+<img src="https://img.shields.io/badge/GitHub-Shubhamsk-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/shubhamkamble-3a8b98384">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 ---
 
+<h3 align="center">
+⭐ Thanks for Visiting My GitHub Profile!
+</h3>
+
 <p align="center">
-  ⭐ Thanks for visiting my GitHub Profile!
+💻 CODE | 📚 LEARN | 🚀 BUILD | 🔥 REPEAT
 </p>
 
-<h3 align="center">
-  💻 Code | 📚 Learn | 🚀 Build | 🔥 Repeat
-</h3>
+<p align="center">
+<i>Always Learning. Always Growing. Always Building.</i>
+</p>
+
+<!-- ================================================== -->
+<!--                    END OF README                    -->
+<!-- ================================================== -->
