@@ -93,19 +93,13 @@ A web application that helps users create professional resumes using customizabl
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
 
-### 🔐 3. Phishing & Spam Detector
-
-A Python and Machine Learning-based project designed to identify potentially harmful phishing messages and spam content.
-
-**Technologies:** Python, Machine Learning
-
-### 🏨 4. Hotel Booking Management System
+### 🏨 3. Hotel Booking Management System
 
 A Java-based application designed to manage hotel room bookings, cancellations, and customer information.
 
 **Technologies:** Java, OOP, ArrayList
 
-### 📚 5. Library Management System
+### 📚 4. Library Management System
 
 A Java-based application designed to manage library operations, including book records and student information.
 
